@@ -1,0 +1,19 @@
+label {
+  font-size: 20px;
+  margin: 20px 0;
+  display: block;
+}
+
+input {
+  display: block;
+  width: 600px;
+  padding: 10px 20px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+button {
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
