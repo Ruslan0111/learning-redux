@@ -1,4 +1,5 @@
 import { Provider } from "react-redux";
+import AsyncPosts from "./components/AsyncPosts";
 import PostForm from "./components/PostForm";
 import Posts from "./components/Posts";
 
@@ -10,6 +11,7 @@ function App() {
       <div>
         <PostForm />
         <Posts />
+        <AsyncPosts />
       </div>
     </Provider>
   );
